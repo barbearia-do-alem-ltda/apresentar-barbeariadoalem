@@ -1,28 +1,5 @@
 @charset "UTF-8";
 
-/*
-===========================================
-  BARBEARIA DO ALÉM - PROJETO INTEGRADOR
-  TI-35 / TDS-1 - Senac Botucatu
-===========================================
-  
-  ESTRUTURA DO ARQUIVO:
-  1. Variáveis CSS (Bootstrap Variables)
-  2. Reset & Base Styles
-  3. Typography (Títulos e Textos)
-  4. Layout & Grid System
-  5. Navigation & Sidebar
-  6. Sections & Content Areas
-  7. Components (Cards, Buttons, Forms)
-  8. Media Queries (Responsividade)
-  9. Custom Styles (Player de Áudio, etc)
-  
-===========================================
-*/
-
-/* ========================================= */
-/*           1. VARIÁVEIS CSS                */
-/* ========================================= */
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
